@@ -16,9 +16,9 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/55bxEVSTaT' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/55bxEVSTaT.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Recordit](https://recordit.co/).
 
 ## License
 
